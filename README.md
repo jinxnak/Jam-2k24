@@ -1,4 +1,4 @@
-# JAM (Epitech #1 Jam) Project Name: Open World Unity Jam
+# JAM (Epitech #1 Jam 2024) Project Name: Open World Unity Jam
 
 ## Description:
 This project aims to create a small open-world environment using Unity, providing players with the freedom to explore and interact with the game world.
