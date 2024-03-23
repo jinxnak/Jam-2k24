@@ -20,7 +20,7 @@ This project aims to create a small open-world environment using Unity, providin
 3. Complete quests and objectives to uncover more about the world.
 
 ## Credits:
-- **Developers:** [The_Jaures_229, THE_S, Jinx]
+- **Developers:** [The_Jaures_229, THE_S, Jinxnak]
 - **Music/Sound:** []
 
 ## License:
