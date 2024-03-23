@@ -22,8 +22,3 @@ This project aims to create a small open-world environment using Unity, providin
 ## Credits:
 - **Developers:** [The_Jaures_229, THE_S, Jinxnak]
 - **Music/Sound:** []
-
-## License:
-This project is licensed under [License Name]. See the LICENSE file for more details.
-
-Feel free to reach out if you have any questions or feedback about the project. Enjoy exploring the small open world in Unity!
